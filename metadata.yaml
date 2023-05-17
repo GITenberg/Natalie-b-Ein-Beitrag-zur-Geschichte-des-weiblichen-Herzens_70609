@@ -1,0 +1,27 @@
+_repo: Natalie-b-Ein-Beitrag-zur-Geschichte-des-weiblichen-Herzens_70609
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tarnow, Fanny
+    gutenberg_agent_id: '55875'
+    url: http://www.gutenberg.org/2009/agents/55875
+description: ''
+gutenberg_issued: '2023-05-05'
+identifiers:
+  gutenberg: '70609'
+language: de
+pgterms:marc904: https://opacplus.bsb-muenchen.de/search?oclcno=165805638
+pgterms:marc905: 20210425035248tarnow
+pgterms:marc906: '1811'
+pgterms:marc907: DE
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This transcription was produced from images generously made available by Bayerische
+  Staatsbibliothek / Bavarian State Library.)
+publication_note: '  $aGermany :$bJulius Eduard Hitzig, $c1811.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Natalie : $b Ein Beitrag zur Geschichte des weiblichen Herzens'
+url: http://www.gutenberg.org/ebooks/70609
