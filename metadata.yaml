@@ -1,11 +1,16 @@
 _repo: Natalie-b-Ein-Beitrag-zur-Geschichte-des-weiblichen-Herzens_70609
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70609-h/images/cover.jpg
 creator:
   author:
     agent_name: Tarnow, Fanny
     gutenberg_agent_id: '55875'
     url: http://www.gutenberg.org/2009/agents/55875
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70609#Natalie-b-Ein-Beitrag-zur-Geschichte-des-weiblichen-Herzens
 gutenberg_issued: '2023-05-05'
 identifiers:
   gutenberg: '70609'
